@@ -16,7 +16,7 @@
         <?php
         $n = $_GET["nome"] ?? "Nome desconhecido";
         $s = $_GET["sobrenome"] ?? "e Sobrenome desconhecido";
-        echo "É um prazer te conhecer, $n $s. Este é o meu site!";
+        echo "É um prazer te conhecer, $n $s!";
         ?>
         <p><a href="javascript:history.go(-1)"> Voltar para a página anterior </a></p>
     </main>
