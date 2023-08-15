@@ -9,7 +9,7 @@
 
 body {
     background-color: #15142b;
-    background-image: linear-gradient(180deg, #2354f5, #150052);
+    background-image: linear-gradient(180deg, #3e55ff, #0a065a);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -29,7 +29,8 @@ header, main, section, article {
 
 header > h1 {
     color: white;
-    text-shadow: 3px 3px 0px black;
+    text-shadow: 3px 3px 0px rgb(37, 11, 184);
+    text-align: center;
 }
 
 main, section, article {
